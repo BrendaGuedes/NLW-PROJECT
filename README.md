@@ -1,2 +1,2 @@
 # NLW-PROJECT
- Desenvolvendo uma aplicação WEB de habitos e rotina
+ Desenvolvimento de uma feramenta de controle de habitos para que o usuário possa controlar suas metas e resoluções;
